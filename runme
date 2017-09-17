@@ -1,0 +1,2 @@
+floyd run --mode jupyter --tensorboard --gpu 
+
