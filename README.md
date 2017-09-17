@@ -2,7 +2,7 @@
 
 ### Simple MLP for timing on CPU vs GPU
 ---
-Based on the outstanding books by Brown Lee at:
+Based on the outstanding books by Dr. Jason Brownlee at:
 
 www.MachineLearningMastery.com
 
